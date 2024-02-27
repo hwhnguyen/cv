@@ -9,6 +9,3 @@ IBM Data Science Professional Certificate (IBM via Coursera)
 Mathematical Optimisation
 * https://github.com/hwhnguyen/cv/blob/main/scrapbook/Gradient%20Descent%20and%20Newton.ipynb
 * https://github.com/hwhnguyen/cv/blob/main/scrapbook/Optimisation%20with%20Genetic%20Algorithm.ipynb
-
-Lucky Number Generator (⊙﹏⊙ not for lotto ◔_◔)
-* https://github.com/hwhnguyen/cv/blob/main/scrapbook/powerball_numgen.py
