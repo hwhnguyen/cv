@@ -11,6 +11,7 @@ DeepLearning.AI TensorFlow Developer Professional Certificate (via Coursera)
 
 TensorFlow Developer Certificate (Google Developers Certification)
 * https://www.credential.net/df1fffd2-5d28-4f84-8955-2ed3c8958661
+* Find me at https://developers.google.com/certification/directory/tensorflow
 
 Miscellaneous notebooks with math and code
 * https://github.com/hwhnguyen/cv/blob/main/scrapbook/Gradient%20Descent%20and%20Newton.ipynb
