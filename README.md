@@ -1,4 +1,4 @@
-#(˵⇀‿↼˵)
+# (˵⇀‿↼˵)
 
 My interest in Python
 
