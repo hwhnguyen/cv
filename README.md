@@ -1,6 +1,6 @@
-# CV
+#(˵⇀‿↼˵)
 
-A showcase of my coding in Python
+My interest in Python
 
 IBM Data Science Professional Certificate (via Coursera)
 * https://www.coursera.org/account/accomplishments/specialization/E2J9KT55GR8N
